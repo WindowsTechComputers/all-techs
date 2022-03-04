@@ -8,3 +8,4 @@ RULES:
 # *Do not: share informaition, share IP, download unkown apps, and give your PASSWORD.*
 # If you feel in danger, head over to our orgisatazion at our discussion to get help by us.
 # Have a great time here 😊!
+Check out the page here: https://windowstechcomputers.github.io/windowstechcomputers/
